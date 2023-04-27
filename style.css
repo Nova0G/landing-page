@@ -5,6 +5,8 @@ body {
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 16px;
 }
 
 a {
@@ -13,12 +15,7 @@ a {
     font-size: 18px;
 }
 
-ul {
-    display: flex;
-    gap: 16px;
-}
-
-.header {
+.header, .hero {
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
@@ -31,3 +28,4 @@ ul {
     align-items: center;
     font-weight: 800;
 }
+
