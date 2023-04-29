@@ -71,6 +71,20 @@ p.hero-subtext {
     font-size: 18px;
 }
 
-img {
+img#hero-image {
     width: 550px;
+}
+
+h2 {
+    text-align: center;
+    margin: 32px;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
 }
