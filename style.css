@@ -96,3 +96,21 @@ h2 {
     border: 4px solid #3882f6;
     border-radius: 10px;
 }
+
+.quote {
+    padding: 96px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    color: #1f2937;
+}
+
+.quote-main {
+    font-size: 36px;
+    width: 750px;
+}
+
+.quote-end {
+    font-size: 24px;
+}
