@@ -1,4 +1,4 @@
 # landing-page
 Odin Landing Page From Scratch Project
 
-Brawlstars and all images Copyright Supercell.
+Brawlstars and all images Copyright Supercell 2023
