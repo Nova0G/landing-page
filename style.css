@@ -114,3 +114,47 @@ h2 {
 .quote-end {
     font-size: 24px;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    padding: 96px;
+}
+
+.cta-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882f6;
+    width: 950px;
+    border-radius: 5px;
+    gap: 100px;
+    padding: 30px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.cta-p {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.cta-button {
+    background-color: #3882f6;
+    border: 2px solid #F9FAF8;
+    width: 140px;
+    border-radius: 5px;
+    color: #F9FAF8;
+    padding: 8px;
+}
+
+.footer {
+    text-align: center;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    padding: 32px;
+}
