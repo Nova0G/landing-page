@@ -97,6 +97,11 @@ h2 {
     border-radius: 10px;
 }
 
+.text {
+    width: 308px;
+    text-align: center;
+}
+
 .quote {
     padding: 96px 0px;
     display: flex;
@@ -145,6 +150,7 @@ h3 {
 
 .cta-button {
     background-color: #3882f6;
+    font-size: 18px;
     border: 2px solid #F9FAF8;
     width: 140px;
     border-radius: 5px;
