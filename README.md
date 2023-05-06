@@ -6,4 +6,6 @@ This project is a Landing Page coded from scratch. I was given an image to work 
 Brawlstars and all images Copyright Supercell 2023
 
 
-<!-- TODO: Update page with my own text and links -->
+<!-- TODO: -->
+<!-- 1: Update page with my own text and links  -->
+<!-- 2: Fix the minor details i missed -->
