@@ -1,7 +1,7 @@
 # landing-page
 Odin Landing Page From Scratch Project
 
-This project is a Landing Page coded from scratch. I was given an image to work from and was given a few design parameters like color, font and font size etc. I used images I found, but used the text given in the Design Image. 
+This project is a Landing Page coded from scratch. I was given an image to work from and was given a few design parameters like color, font and font size etc. I used images I found, but used the text given in the Design Image. Overall a fun project where I got to show my skills with Vanilla CSS and HTML.
 
 Brawlstars and all images Copyright Supercell 2023
 
