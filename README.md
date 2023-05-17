@@ -12,4 +12,4 @@ Brawlstars and all images Copyright Supercell 2023
 <!-- 3: Tidy up and fix minor details I missed -->
 
 
-<!-- Looking back I realize now that I could've combined some selectors in the css file to save time and css lines coded. -->
+<!-- Looking back I realize now that I could've combined some selectors in the css file to save time and css lines coded. Apply DRY principle -->
