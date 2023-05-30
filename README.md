@@ -13,4 +13,4 @@ Brawlstars and all images Copyright © Supercell 2023
 <!-- 4: -->
 
 
-<!-- Looking back I realize now that I could've combined some selectors in the css file to save time and css lines coded. Apply DRY principle -->
+ Looking back I realize now that I could've combined some selectors in the css file to save time and css lines coded. Apply DRY principle.
